@@ -1,0 +1,466 @@
+
+
+
+
+
+
+
+#socialitem11 { background-color: blueviolet}
+
+#socialitem11 { background-image: url("images/icons8-view-24.png")}
+
+#socialitem11 { background-position: center}
+
+#socialitem22 { background-color: blueviolet}
+
+#socialitem22 { background-image: url("images/icons8-view-24.png")}
+
+#socialitem22 { background-position: center}
+
+#socialitem33 { background-color: blueviolet}
+
+#socialitem33 { background-image: url("images/icons8-view-24.png")}
+
+#socialitem33 { background-position: center}
+
+
+
+
+
+
+  
+
+
+
+
+
+
+#bookImg:hover {
+
+     animation: hvr-buzz-out 1s ease-out; 
+     -webkit-animation: hvr-buzz-out 1s ease-out;
+     -moz-animation: hvr-buzz-out 1s ease-out;
+     -o-animation: hvr-buzz-out 1s ease-out;
+
+}
+
+#coderImg:hover {
+
+    animation: hvr-buzz-out 1s ease-out; 
+    -webkit-animation: hvr-buzz-out 1s ease-out;
+    -moz-animation: hvr-buzz-out 1s ease-out;
+    -o-animation: hvr-buzz-out 1s ease-out;
+
+}
+
+#presentImg:hover {
+
+    animation: hvr-buzz-out 1s ease-out; 
+    -webkit-animation: hvr-buzz-out 1s ease-out;
+    -moz-animation: hvr-buzz-out 1s ease-out;
+    -o-animation: hvr-buzz-out 1s ease-out;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+nav {   
+    left: 50%;
+    position: fixed;
+    top: 10px;
+    transform: translate(-50%, -10%);
+    position: -webkit-sticky; /* Safari */
+    background-color: #d7505f ;
+    display: inline-block;
+    border-radius: 5px;
+    z-index: 10;
+
+}
+
+html { scroll-behavior:  smooth}
+
+#homeButton {
+    background-image: url("images/icons8-home-64.png");
+    background-position: center
+}
+
+#navItem1 { background-color: #d7505f; border-radius: 5px;}
+
+#navItem2 { background-color: #d7505f; border-radius: 5px }
+
+#navItem3 { background-color: #d7505f; border-radius: 5px }
+
+#navItem4 { background-color: #d7505f; border-radius: 5px }
+
+#navItem5 { background-color: #d7505f; border-radius: 5px }
+
+#landingPic { border-radius: 20px}
+
+
+
+
+
+a:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ }
+
+ #viewProjectsBtn { border-radius: 50%; background-color: plum}
+ #viewProjectsBtn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ }
+
+
+ #viewCCAMBtn { border-radius: 50%; background-color: plum}
+ #viewCCAMBtn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+ }
+
+
+
+
+ #Certificate1 { background-color: blueviolet}
+#certificate2 { background-color: blueviolet}
+ #certificate3 { background-color: blueviolet; 
+    
+
+}
+
+ 
+
+#phoneInfoButton {color: blueviolet; height: 100px; width: 100px;}
+
+#featuredin-11 { background-color: purple }
+
+
+
+
+
+#Testimonial1:hover {
+
+    text-shadow: 2px 2px blueviolet;
+    
+
+ 
+ }
+
+ #certificate3:hover {
+
+    box-shadow: 0 12px 16px 0 black, 0 17px 50px 0 rgba(0,0,0,0.19);
+    animation: hvr-pop 0.8s ease-in-out; 
+    -webkit-animation: hvr-pop 0.8s ease-in-out;
+    -moz-animation: hvr-pop 0.8s ease-in-out;
+    -o-animation: hvr-pop 0.8s;
+
+ }
+
+ #certificate2:hover {
+
+    box-shadow: 0 12px 16px 0 black, 0 17px 50px 0 rgba(0,0,0,0.19);
+    animation: hvr-pop 0.8s ease-in-out; 
+    -webkit-animation: hvr-pop 0.8s ease-in-out;
+    -moz-animation: hvr-pop 0.8s ease-in-out;
+    -o-animation: hvr-pop 0.8s;
+ }
+
+ #Certificate1:hover {
+
+    box-shadow: 0 12px 16px 0 black, 0 17px 50px 0 rgba(0,0,0,0.19);
+    animation: hvr-pop 0.8s ease-in-out; 
+    -webkit-animation: hvr-pop 0.8s ease-in-out;
+    -moz-animation: hvr-pop 0.8s ease-in-out;
+    -o-animation: hvr-pop 0.8s;
+ }
+
+
+
+
+
+ #gmailAccount:hover { color: pink; font-weight: bold; font-size: 20px}
+
+ #yahooAccount:hover { color: pink; font-weight: bold; font-size: 20px}
+
+ #studentAccount:hover {color: pink; font-weight: bold; font-size: 20px}
+
+ #phoneNumber:hover {color: pink; font-weight: bold; font-size: 20px}
+
+
+
+
+
+
+#topTwitter:hover { 
+    background-color: blue;
+    animation: hvr-pop 0.8s infinite; 
+    -webkit-animation: hvr-pop 0.8s infinite;
+    -moz-animation: hvr-pop 0.8s infinite;
+    -o-animation: hvr-pop 0.8s infinite;
+}
+
+#topFacebook:hover{ 
+    background-color: blue;
+    animation: hvr-pop 0.8s infinite; 
+    -webkit-animation: hvr-pop 0.8s infinite;
+    -moz-animation: hvr-pop 0.8s infinite;
+    -o-animation: hvr-pop 0.8s infinite;
+}
+
+#topEmail:hover{ 
+    background-color: blue;
+    animation: hvr-pop 0.8s infinite; 
+    -webkit-animation: hvr-pop 0.8s infinite;
+    -moz-animation: hvr-pop 0.8s infinite;
+    -o-animation: hvr-pop 0.8s infinite;
+}
+
+#topLinkedIn:hover{ 
+    background-color: blue;
+    animation: hvr-pop 0.8s infinite; 
+    -webkit-animation: hvr-pop 0.8s infinite;
+    -moz-animation: hvr-pop 0.8s infinite;
+    -o-animation: hvr-pop 0.8s infinite;
+}
+
+#topGithub:hover { 
+    background-color: blue;
+    animation: hvr-pop 0.8s infinite; 
+    -webkit-animation: hvr-pop 0.8s infinite;
+    -moz-animation: hvr-pop 0.8s infinite;
+    -o-animation: hvr-pop 0.8s infinite;
+}
+
+
+
+
+
+
+#classPreCompSci:hover {
+     color: #d7505f;
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+
+}
+
+#ApCompSci:hover {
+     color:#d7505f;
+     color: #d7505f;
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+    }
+
+#Programming1:hover { 
+    color: #d7505f;
+    color: #d7505f;
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+
+}
+
+#PapCalc:hover { 
+    color:royalblue;
+
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+
+}
+
+#Alg2:hover { 
+    color: royalblue;
+
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+}
+
+#ApPhys:hover { 
+    color: royalblue;
+
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+}
+
+#Engineer1:hover {
+    color: darkgreen;
+
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+}
+
+#IndStudy:hover {
+    color: darkgreen;
+
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+}
+
+#BusMgt:hover {
+    color: darkgreen;
+
+     animation: hvr-pulse 1s ease-out; 
+     -webkit-animation: hvr-pulse 1s ease-out;
+     -moz-animation: hvr-pulse 1s ease-out;
+     -o-animation: hvr-pulse 1s ease-out;
+}
+
+
+
+
+
+
+
+
+
+
+#skillJavaScript:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillNode:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillHTML:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillElectron:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillJava:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillUX:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillTeamwork:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillLeadership:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillSelf:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillNet:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillPython:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#skillLearn:hover { 
+
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+   -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+   -o-animation: hvr-wobble-vertical 0.8s;
+   display: inline-block;
+}
+
+#CCAMLI:hover {
+    animation: hvr-pulse 0.8s infinite; 
+    -webkit-animation: hvr-pulse 0.8s infinite;
+    -moz-animation: hvr-pulse 0.8s infinite;
+    -o-animation: hvr-pulse 0.8s infinite;
+    }
+
+
+
+
+#question1:hover {
+    animation: hvr-wobble-vertical 0.8s ease-in-out; 
+    -webkit-animation: hvr-wobble-vertical 0.8s ease-in-out;
+    -moz-animation: hvr-wobble-vertical 0.8s ease-in-out;
+    -o-animation: hvr-wobble-vertical 0
+    
+}
+
+
+
+
