@@ -5,7 +5,6 @@ A personal website I designed to serve as a portfolio.
 
 EDIT: This website is an old one. 
 My new website is hosted at http://trenthardy.x10.mx/
-
 ----------------------------------------------------------
 
 
