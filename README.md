@@ -9,5 +9,5 @@ http://trent-hardy.000webhostapp.com/
 
 
 EDIT: This website is an old one. 
-My new website is hosted at trenthardy.x10.mx
+My new website is hosted at http://trenthardy.x10.mx/
 
